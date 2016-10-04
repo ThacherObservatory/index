@@ -1,0 +1,33 @@
+[submodule "observatory"]
+	path = observatory
+	url = https://github.com/ThacherObservatory/observatory.git
+[submodule "planet9"]
+	path = planet9
+	url = https://github.com/ThacherObservatory/planet9.git
+[submodule "ecbin"]
+	path = ecbin
+	url = https://github.com/ThacherObservatory/ecbin.git
+[submodule "photometry"]
+	path = photometry
+	url = https://github.com/ThacherObservatory/photometry.git
+[submodule "observing"]
+	path = observing
+	url = https://github.com/ThacherObservatory/observing.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/ThacherObservatory/utils.git
+[submodule "fit"]
+	path = fit
+	url = https://github.com/thacher-obs/fit.git
+[submodule "routines"]
+	path = routines
+	url = https://github.com/thacher-obs/routines.git
+[submodule "emcee"]
+	path = emcee
+	url = https://github.com/dfm/emcee.git
+[submodule "eb"]
+	path = eb
+	url = https://github.com/mdwarfgeek/eb
+[submodule "starutils"]
+	path = starutils
+	url = https://github.com/timothydmorton/starutils.git
