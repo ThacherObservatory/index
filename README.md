@@ -1,19 +1,24 @@
-#Index
+Index
 =====
 
-Thacher Astronomy Comprehensive Standard Regulation-Compliant Data Manipulation Workspace Repository.
+_*Thacher Astronomy Comprehensive Standard Regulation-Compliant Data Manipulation Workspace Repository.*_
 
-##Thacher Astronomy
+These repositories are used by the Thacher Observatory.
+
+#Repositories
+
+###Thacher Astronomy
 - [ecbin](https://github.com/ThacherObservatory/ecbin)
-- [fit](https://github.com/thacher-obs/observatory)
+- [thacher-obs/fit](https://github.com/thacher-obs/observatory)
 - [observatory](https://github.com/ThacherObservatory/observatory)
 - [observing](https://github.com/ThacherObservatory/observing)
 - [photometry](https://github.com/ThacherObservatory/photometry)
 - [planet9](https://github.com/ThacherObservatory/planet9)
-- [routines](https://github.com/thacher-obs/routines)
+- [thacher-obs/routines](https://github.com/thacher-obs/routines)
 - [utils](https://github.com/ThacherObservatory/utils)
 
-##Outsiders
-- [eb](https://github.com/mdwarfgeek/eb)
-- [emcee](https://github.com/dfm/emcee)
-- [starutils](https://github.com/timothydmorton/starutils)
+###Outside Sources
+- [mdwarfgeek/eb](https://github.com/mdwarfgeek/eb)
+- [dfm/emcee](https://github.com/dfm/emcee)
+- [timothydmorton/starutils](https://github.com/timothydmorton/starutils)
+- [timothydmorton/VESPA](https://github.com/timothydmorton/VESPA)
