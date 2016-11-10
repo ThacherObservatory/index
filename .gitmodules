@@ -28,9 +28,6 @@
 [submodule "eb"]
 	path = eb
 	url = https://github.com/mdwarfgeek/eb
-[submodule "starutils"]
-	path = starutils
-	url = https://github.com/timothydmorton/starutils.git
 [submodule "VESPA"]
 	path = VESPA
 	url = https://github.com/timothydmorton/VESPA
