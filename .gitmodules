@@ -22,6 +22,3 @@
 [submodule "routines"]
 	path = routines
 	url = https://github.com/thacher-obs/routines.git
-[submodule "eb"]
-	path = eb
-	url = https://github.com/mdwarfgeek/eb
