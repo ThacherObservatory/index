@@ -28,6 +28,3 @@
 [submodule "eb"]
 	path = eb
 	url = https://github.com/mdwarfgeek/eb
-[submodule "VESPA"]
-	path = VESPA
-	url = https://github.com/timothydmorton/VESPA
