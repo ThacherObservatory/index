@@ -21,4 +21,4 @@
 	url = https://github.com/thacher-obs/fit.git
 [submodule "routines"]
 	path = routines
-	url = https://github.com/thacher-obs/routines.git
+	url = https://github.com/thacher-obs/routines.gith
